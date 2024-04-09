@@ -17,6 +17,8 @@ function App() {
       <p className="read-the-docs">
         Pag creada por los alumnos Armando García Sarao, Cinthia Citlali Rejón Lopéz y Carlos Alberto Virgen Aguilar 
       </p>
+      <br></br>
+      <p className="read-the-docs"> fecha de realización: 08/04/2024</p>
     </>
   )
 }
